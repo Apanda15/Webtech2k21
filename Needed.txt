@@ -1,0 +1,16 @@
+
+git init .
+git config --global user.email "panda_3200975@letran-calamba.edu.ph"
+git config --global user.name "Apanda15"
+git add .
+git commit -m "My first web page"
+git push origin main
+
+
+git init . (Initialize git folder)
+git config --global user.email johndoe@example.com (to configure email)
+git config --global user.name "John Doe" (to conifgure username)
+git add . (to add all items inside a git folder)
+git status (to check the status of items)
+git commit -m "Message" (to add documentation)
+git push origin main (to push to github)
